@@ -1,4 +1,4 @@
-# dsh-plugin-prompt-edit
+# dsh-prompt-edit
 
 adds in-place prompt editing to DeepSeek Harness
 
@@ -26,9 +26,10 @@ click the pencil on any user message, edit your text, enjoy
 ## install
 
 ```bash
-dsh plugin add dsh-plugin-prompt-edit
-systemctl --user restart dsh-web.service
+dsh plugin --profile web add github:perdakovich/dsh-prompt-edit
 ```
+
+restart `dsh web` and refresh the page.
 
 ## how it works
 

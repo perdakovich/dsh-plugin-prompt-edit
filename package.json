@@ -1,5 +1,5 @@
 {
-  "name": "dsh-plugin-prompt-edit",
+  "name": "dsh-prompt-edit",
   "version": "1.0.0",
   "description": "In-place prompt editing, branching and history rewrite for DeepSeek Harness",
   "type": "module",
@@ -7,7 +7,7 @@
   "author": "PERDUN PERDAKOVICH",
   "repository": {
     "type": "git",
-    "url": "https://github.com/perdakovich/dsh-plugin-prompt-edit"
+    "url": "https://github.com/perdakovich/dsh-prompt-edit"
   },
   "keywords": [
     "dsh",
